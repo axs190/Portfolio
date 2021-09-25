@@ -1,10 +1,10 @@
 
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
-
+/*Contains the web background*/
 body {
   background-color: #5f5345;
 }
- 
+ /*Contains the page layout*/
 .pageContainer {
   width: 1500px;
   margin: 20px auto 0 auto;
@@ -12,19 +12,20 @@ body {
   background-color: #fff;
 
 }
- 
+ /*Image of me*/
 .imageContainer {
   float: center;
   width: 300px;
   margin: 20px auto 0 auto;
  
 }
+/*Image of the location*/
 .imageContainer2 {
   float: center;
   width: 300px;
   margin: 20px auto 0 auto;
 }
- 
+ /*Contains the text layout*/
 .textContainer {
   float: center;
   width: 300px;
@@ -32,9 +33,7 @@ body {
 
 }
 
-p {
 
-}
 
 img {
   width: 100%;
