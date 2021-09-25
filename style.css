@@ -75,5 +75,8 @@ ol {
   display: table;
   margin: 0 auto;
 }
+a:link {
+  color: green;
+}
 
  
